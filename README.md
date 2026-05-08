@@ -69,7 +69,7 @@ I'm **[`Arjun k`](www.linkedin.com/in/arjun-kayyil)**,a final year Information T
 | **Project** | **Description** |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[MindTrace – Depression & Stress Detection System](https://github.com/)** | **MindTrace is a software-based mental health analysis system that detects depression and stress levels using EEG signal datasets, facial emotion recognition, diary emotion analysis, and rPPG-based heart rate detection. By combining data from multiple modalities through a fusion model, the system predicts mental stress levels with improved accuracy using deep learning techniques.** |
-|| **[BMI Calculator with Diet & Fitness Recommendation](https://github.com/)** | A health and fitness application that calculates Body Mass Index (BMI) using user inputs and provides personalized diet plans, workout suggestions, and fitness recommendations to help users maintain a healthy lifestyle. |
-|| **[College Canteen Management System](https://github.com/)** | A web-based canteen management system that enables students to order food and make online payments digitally, helping reduce waiting time and simplify the food ordering process within the college campus. |
+| **[BMI Calculator with Diet & Fitness Recommendation](https://github.com/)** | A health and fitness application that calculates Body Mass Index (BMI) using user inputs and provides personalized diet plans, workout suggestions, and fitness recommendations to help users maintain a healthy lifestyle. |
+| **[College Canteen Management System](https://github.com/)** | A web-based canteen management system that enables students to order food and make online payments digitally, helping reduce waiting time and simplify the food ordering process within the college campus. |
 
 ---
