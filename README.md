@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm **[`Arjun k`](www.linkedin.com/in/arjun-kayyil)**,a final year Information Technology student passionate about software development, web technologies, and problem-solving. I enjoy building real-world projects, learning new technologies, and improving my skills in full-stack development and AI. My goal is to grow as a software engineer and contribute to innovative and impactful solutions.
+I'm **[`Arjun k`](https://www.linkedin.com/in/arjun-kayyil)**,a final year Information Technology student passionate about software development, web technologies, and problem-solving. I enjoy building real-world projects, learning new technologies, and improving my skills in full-stack development and AI. My goal is to grow as a software engineer and contribute to innovative and impactful solutions.
 
 <br>
 
-<a href="www.linkedin.com/in/arjun-kayyil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arjun-kayyil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
