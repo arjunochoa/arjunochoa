@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm **[`Arjun k`](https://www.linkedin.com/in/arjun-kayyil)**,a final year Information Technology student passionate about software development, web technologies, and problem-solving. I enjoy building real-world projects, learning new technologies, and improving my skills in full-stack development and AI. My goal is to grow as a software engineer and contribute to innovative and impactful solutions.
+Here's a cleaner and more professional version:
+
+> I'm **[`Arjun K`](https://www.linkedin.com/in/arjun-kayyil)**, an Information Technology graduate passionate about software development, full-stack web development, artificial intelligence, and problem-solving. I enjoy building real-world projects, exploring new technologies, and continuously improving my technical skills. My goal is to grow as a software engineer and contribute to innovative, impactful solutions.
+
 
 <br>
 
@@ -11,7 +14,7 @@ I'm **[`Arjun k`](https://www.linkedin.com/in/arjun-kayyil)**,a final year Infor
 
 - **Name**: Arjun k
 - **From**: kerala,India
-- Final Year IT Student | Aspiring Software Developer
+- Engineering Graduate | Software Developer
 - Passionate about web development, AI, and building real-world software projects.
 - Continuously improving my skills in full-stack development, problem-solving, and modern technologies.
 - Currently exploring React, Python, Machine Learning, and backend development.
@@ -71,8 +74,7 @@ I'm **[`Arjun k`](https://www.linkedin.com/in/arjun-kayyil)**,a final year Infor
 
 | **Project** | **Description** |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[MindTrace – Depression & Stress Detection System](https://github.com/)** | **MindTrace is a software-based mental health analysis system that detects depression and stress levels using EEG signal datasets, facial emotion recognition, diary emotion analysis, and rPPG-based heart rate detection. By combining data from multiple modalities through a fusion model, the system predicts mental stress levels with improved accuracy using deep learning techniques.** |
+| **[MindTrace – Depression & Stress Detection System](https://github.com/arjunochoa/Mind-Trace)** | **MindTrace is a software-based mental health analysis system that detects depression and stress levels using EEG signal datasets, facial emotion recognition, diary emotion analysis, and rPPG-based heart rate detection. By combining data from multiple modalities through a fusion model, the system predicts mental stress levels with improved accuracy using deep learning techniques.** |
 | **[BMI Calculator with Diet & Fitness Recommendation](https://github.com/)** | A health and fitness application that calculates Body Mass Index (BMI) using user inputs and provides personalized diet plans, workout suggestions, and fitness recommendations to help users maintain a healthy lifestyle. |
-| **[College Canteen Management System](https://github.com/)** | A web-based canteen management system that enables students to order food and make online payments digitally, helping reduce waiting time and simplify the food ordering process within the college campus. |
 
 ---
